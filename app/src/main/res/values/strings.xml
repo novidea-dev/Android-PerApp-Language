@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">Multilanguage Demo</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="language">Language</string>
+    <string name="about_app">About</string>
+
+    <string name="about_the_book">About the book</string>
+    <string name="action_sort">Sort</string>
+
+    <string name="select_app_language">Select app language</string>
+    <string name="english">English</string>
+    <string name="greek">Greek</string>
+    <string name="french">French</string>
+    <string name="spanish">Spanish</string>
+    <string name="telugu">Telugu</string>
+
+    <string name="about_app_title">Welcome to \nMultiple Language Demo</string>
+    <string name="about_description_1">Multiple Language Demo is designed to guide new developers on implementing multi-language support in their apps.</string>
+    <string name="about_description_2">It provides a simple interface to select different languages and demonstrates how to change the app\'s locale.</string>
+    <string name="languageSettings">Language Settings</string>
+    <string name="book_detail_title">Book Details</string>
+    <string name="open_drawer" translatable="false">Open Drawer</string>
+    <string name="close_drawer" translatable="false">Close Drawer</string>
+</resources>

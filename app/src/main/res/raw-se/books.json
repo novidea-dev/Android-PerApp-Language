@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "P.S. I love you",
+    "author": "Cecelia Ahern",
+    "rating": "4.0",
+    "price": "€12.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392344536l/366522.jpg",
+    "description": "Descripción: Una conmovedora y conmovedora novela de Cecelia Ahern, \"P.S. I Love You\" cuenta la historia de Holly, una joven viuda que recibe una serie de cartas de su difunto esposo, guiándola a través del viaje de curación y redescubrimiento. Este relato emocionalmente cargado explora el amor, la pérdida y el duradero poder de la memoria."
+  },
+  {
+    "id": "2",
+    "name": "El gran Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "rating": "3.9",
+    "price": "€14.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SY475_.jpg",
+    "description": "Descripción: La clásica obra de F. Scott Fitzgerald, \"El gran Gatsby\", se sumerge en el glamuroso y turbulento mundo de los felices años veinte. A través de los ojos de Nick Carraway, los lectores son testigos de la enigmática búsqueda de Jay Gatsby de riqueza, amor y el Sueño Americano, ambientado en un telón de fondo de opulencia y decadencia social."
+  },
+  {
+    "id": "3",
+    "name": "Anna Karénina",
+    "author": "León Tolstói",
+    "rating": "4.1",
+    "price": "€9.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617l/15823480._SX318_.jpg",
+    "description" : "Descripción: La magistral \"Anna Karénina\" de León Tolstói teje una narrativa compleja de amor, traición y expectativas sociales en la Rusia del siglo XIX. El personaje titular, Anna, lucha con las consecuencias de su apasionado romance, mientras la novela explora temas de moralidad, familia y la condición humana."
+  },
+  {
+    "id": "4",
+    "name": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "rating": "3.6",
+    "price": "€11.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335676143l/2175.jpg",
+    "description" : "Descripción: La innovadora obra de Gustave Flaubert, \"Madame Bovary\", explora las consecuencias de la implacable búsqueda de ideales románticos de Emma Bovary en la Francia provincial. La novela es una vívida representación del deseo humano de realización y los peligros de la pasión descontrolada."
+  },
+  {
+    "id": "5",
+    "name": "Guerra y paz",
+    "author": "León Tolstói",
+    "rating": "4.2",
+    "price": "€11.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413215930l/656.jpg",
+    "description" : "Descripción: La épica \"Guerra y paz\" de León Tolstói abarca los tumultuosos años de las guerras napoleónicas y la sociedad rusa. A través de una amplia gama de personajes, la novela profundiza en temas de guerra, amor y la búsqueda de significado en la vida. Un clásico atemporal que captura la esencia de la experiencia humana."
+  },
+  {
+    "id": "6",
+    "name": "Lolita",
+    "author": "Vladimir Nabokov",
+    "rating": "3.8",
+    "price": "€13.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377756377l/7604.jpg",
+    "description" : "Descripción: La controversial obra maestra de Vladimir Nabokov, \"Lolita\", es una exploración oscura e intrincada de la obsesión y el deseo prohibido. La novela sigue la perturbadora infatuación de Humbert Humbert con el personaje titular, Lolita, desafiando a los lectores con su narrativa provocativa."
+  },
+  {
+    "id": "7",
+    "name": "Middlemarch",
+    "author": "George Eliot",
+    "rating": "3.9",
+    "price": "€17.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481264628l/19089.jpg",
+    "description" : "Descripción: \"Middlemarch\" de George Eliot es una rica tela de vidas interconectadas en una ciudad provincial inglesa. La novela explora las complejidades del amor, la ambición y la moralidad, ofreciendo una representación matizada de personajes que navegan por los desafíos sociales y personales del siglo XIX."
+  },
+  {
+    "id": "8",
+    "name": "Las aventuras de Huckleberry Finn",
+    "author": "Mark Twain",
+    "rating": "3.8",
+    "price": "€9.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546096879l/2956.jpg",
+    "description" : "Descripción: La clásica aventura de Mark Twain, \"Las aventuras de Huckleberry Finn\", sigue el viaje de Huck Finn y Jim, un esclavo fugitivo, mientras navegan por el río Mississippi. La novela aborda temas de racismo, libertad y el crecimiento moral de su joven protagonista."
+  },
+  {
+    "id": "9",
+    "name": "Moby-Dick",
+    "author": "Herman Melville",
+    "rating": "3.5",
+    "price": "€13.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940656l/153747.jpg",
+    "description" : "Descripción: \"Moby-Dick\" de Herman Melville es una epopeya sobre la obsesiva búsqueda del capitán Ahab de la ballena blanca, Moby Dick. Esta aventura marítima explora temas de venganza, destino y el asombroso poder del mar."
+  },
+  {
+    "id": "10",
+    "name": "El señor de los anillos",
+    "author": "J.R.R. Tolkien",
+    "rating": "4.5",
+    "price": "€17.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547450792l/33.jpg",
+    "description" : "Descripción: La epopeya fantástica de J.R.R. Tolkien, \"El señor de los anillos\", sigue la búsqueda para destruir el Anillo Único y derrotar al oscuro señor Sauron. Ambientada en el rico mundo imaginario de la Tierra Media, esta epopeya explora temas de amistad, heroísmo y la lucha entre el bien y el mal."
+  },
+  {
+    "id": "11",
+    "name": "Matar a un ruiseñor",
+    "author": "Harper Lee",
+    "rating": "4.1",
+    "price": "€12.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657.jpg",
+    "description" : "Descripción: \"Matar a un ruiseñor\" de Harper Lee es una poderosa exploración de la injusticia racial en el sur de Estados Unidos. A través de los ojos de Scout Finch, la novela aborda temas de moralidad y compasión mientras su padre, Atticus Finch, defiende a un hombre negro inocente acusado de violación."
+  },
+  {
+    "id": "12",
+    "name": "1984",
+    "author": "George Orwell",
+    "rating": "4.2",
+    "price": "€13.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532714506l/40961427.jpg",
+    "description" : "Descripción: La distópica obra clásica de George Orwell, \"1984\", pinta un sombrío cuadro de una sociedad totalitaria donde el gobierno controla cada aspecto de la vida de sus ciudadanos. Winston Smith, el protagonista, se rebela contra el régimen opresivo en un inquietante relato que sigue siendo una exploración preventiva de la vigilancia y la censura."
+  },
+  {
+    "id": "13",
+    "name": "El guardián entre el centeno",
+    "author": "J.D. Salinger",
+    "rating": "3.8",
+    "price": "€12.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107.jpg",
+    "description" : "Descripción: \"El guardián entre el centeno\" de J.D. Salinger sigue al rebelde e introspectivo Holden Caulfield mientras navega por los desafíos de la adolescencia en la ciudad de Nueva York. La novela es una exploración atemporal de la alienación, la identidad y la pérdida de la inocencia."
+  },
+  {
+    "id": "14",
+    "name": "El Hobbit",
+    "author": "J.R.R. Tolkien",
+    "rating": "4.2",
+    "price": "€14.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379023182l/5907.jpg",
+    "description" : "Descripción: El encantador \"El Hobbit\" de J.R.R. Tolkien lleva a los lectores en un viaje caprichoso con Bilbo Bolsón, un hobbit lanzado a una épica búsqueda para recuperar el tesoro de un dragón. Lleno de criaturas mágicas y aventuras, prepara el escenario para los eventos en \"El señor de los anillos\"."
+  },
+  {
+    "id": "15",
+    "name": "Un mundo feliz",
+    "author": "Aldous Huxley",
+    "rating": "3.9",
+    "price": "€13.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129.jpg",
+    "description" : "Descripción: \"Un mundo feliz\" de Aldous Huxley imagina una sociedad futura donde la conformidad y el placer son primordiales, desafiando las nociones de individualidad y libertad. Esta novela distópica explora las consecuencias de los avances tecnológicos y el control social."
+  },
+  {
+    "id": "16",
+    "name": "El código Da Vinci",
+    "author": "Dan Brown",
+    "rating": "3.8",
+    "price": "€15.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303252999l/968.jpg",
+    "description" : "Descripción: El apasionante thriller de Dan Brown, \"El código Da Vinci\", sigue al simbólogo Robert Langdon mientras descifra códigos crípticos y descubre antiguos secretos. La novela entrelaza arte, historia y religión en una búsqueda trepidante que mantiene a los lectores al borde de sus asientos."
+  },
+  {
+    "id": "17",
+    "name": "El resplandor",
+    "author": "Stephen King",
+    "rating": "4.2",
+    "price": "€14.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353277730l/11588.jpg",
+    "description" : "Descripción: \"El resplandor\" de Stephen King es un relato escalofriante de la estadía invernal de la familia Torrance en el embrujado Hotel Overlook. A medida que emerge el oscuro pasado del hotel, el horror psicológico se intensifica, mostrando la maestría de King en el suspense y el terror."
+  },
+  {
+    "id": "18",
+    "name": "Lo que el viento se llevó",
+    "author": "Margaret Mitchell",
+    "rating": "4.1",
+    "price": "€15.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328025229l/18405.jpg",
+    "description" : "Descripción: La épica novela de Margaret Mitchell, \"Lo que el viento se llevó\", se desarrolla en el contexto de la Guerra Civil estadounidense y la era de la Reconstrucción. A través de la resiliente Scarlett O'Hara, la historia explora el amor, la pérdida y la transformación del modo de vida sureño."
+  },
+  {
+    "id": "19",
+    "name": "Guía del autoestopista galáctico",
+    "author": "Douglas Adams",
+    "rating": "4.1",
+    "price": "€12.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527075415l/386162.jpg",
+    "description" : "Descripción: La obra maestra cómica de Douglas Adams, \"Guía del autoestopista galáctico\", sigue las desventuras intergalácticas de Arthur Dent, un terrícola inadvertido, y su amigo alienígena Ford Prefect. Llena de absurdos y agudeza, la novela satiriza la ciencia ficción y la condición humana."
+  },
+  {
+    "id": "20",
+    "name": "La Chica del Dragón Tatuado",
+    "author": "Stieg Larsson",
+    "rating": "4.0",
+    "price": "€14.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868566l/2429135.jpg",
+    "description" : "Descripción: \"La chica del dragón tatuado\" de Stieg Larsson presenta a la enigmática hacker Lisbeth Salander y al periodista de investigación Mikael Blomkvist. Juntos, desentrañan un misterio complejo que involucra corrupción, secretos familiares y un industrial adinerado."
+  }
+]

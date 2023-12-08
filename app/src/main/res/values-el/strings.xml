@@ -1,0 +1,21 @@
+<resources>
+    <string name="dashboard">Κεντρική οθόνη</string>
+    <string name="language">Γλώσσα</string>
+    <string name="about_app">Σχετικά με την εφαρμογή</string>
+
+    <string name="about_the_book">Σχετικά με το βιβλίο</string>
+    <string name="action_sort">Ταξινόμηση</string>
+
+    <string name="select_app_language">Επιλογή γλώσσας εφαρμογής</string>
+    <string name="english">Αγγλικά</string>
+    <string name="greek">Ελληνικά</string>
+    <string name="french">Γαλλικά</string>
+    <string name="spanish">Ισπανικά</string>
+    <string name="telugu">Τελουγκού</string>
+
+    <string name="about_app_title">Καλώς ήρθατε στο\Multilanguage Demo</string>
+    <string name="about_description_1">Το Multilanguage Demo σχεδιάστηκε για να καθοδηγήσει τους νέους προγραμματιστές στην ενσωμάτωση υποστήριξης πολλαπλών γλωσσών στις εφαρμογές τους.</string>
+    <string name="about_description_2">Παρέχει ένα απλό περιβάλλον χρήστη για την επιλογή διαφορετικών γλωσσών και δείχνει πώς να αλλάξετε την τοπική ρύθμιση γλώσσας της εφαρμογής.</string>
+    <string name="languageSettings">Ρυθμίσεις γλώσσας</string>
+    <string name="book_detail_title">Λεπτομέρειες βιβλίου</string>
+</resources>

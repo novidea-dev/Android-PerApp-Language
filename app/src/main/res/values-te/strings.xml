@@ -1,0 +1,21 @@
+<resources>
+    <string name="dashboard">డాష్బోర్డ్</string>
+    <string name="language">భాష</string>
+    <string name="about_app">అప్లికేషన్ గురించి</string>
+
+    <string name="about_the_book">పుస్తకం గురించి</string>
+    <string name="action_sort">వర్గీకరణ</string>
+
+    <string name="select_app_language">అప్లికేషన్ భాషను ఎంచుకోండి</string>
+    <string name="english">ఆంగ్లం</string>
+    <string name="greek">గ్రీక్</string>
+    <string name="french">ఫ్రెంచ్</string>
+    <string name="spanish">స్పానిష్</string>
+    <string name="telugu">తెలుగు</string>
+
+    <string name="about_app_title">బహుభాషా డెమోకు స్వాగతం</string>
+    <string name="about_description_1">బహుభాషా డెమో కొంతమంది అభివృద్ధి కొరకు హొరిస్తున్న అభిజాత అభిరుచులను గైడ్ చేయడం కోసం డిజైన్ చేయబడింది.</string>
+    <string name="about_description_2">ఇది విభిన్న భాషలను ఎంచుకోవడానికి ఒక సాధారణ ఇంటర్ఫేస్ అందిస్తుంది మరియు అప్లికేషన్ లోకేల్ మార్చడానికి ఎలా చేయాలనో చూపుతుంది.</string>
+    <string name="languageSettings">భాషా సెట్టింగ్లు</string>
+    <string name="book_detail_title">పుస్తక వివరాలు</string>
+</resources>

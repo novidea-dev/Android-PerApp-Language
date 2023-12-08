@@ -1,0 +1,21 @@
+<resources>
+    <string name="dashboard">Tablero</string>
+    <string name="language">Idioma</string>
+    <string name="about_app">Acerca de</string>
+
+    <string name="about_the_book">Acerca del libro</string>
+    <string name="action_sort">Ordenar</string>
+
+    <string name="select_app_language">Seleccionar idioma de la aplicación</string>
+    <string name="english">Inglés</string>
+    <string name="greek">Griego</string>
+    <string name="french">Francés</string>
+    <string name="spanish">Español</string>
+    <string name="telugu">Telugu</string>
+
+    <string name="about_app_title">Bienvenido a \nDemo de Múltiples Idiomas</string>
+    <string name="about_description_1">Demo de Múltiples Idiomas está diseñado para guiar a los nuevos desarrolladores en la implementación de soporte para varios idiomas en sus aplicaciones.</string>
+    <string name="about_description_2">Proporciona una interfaz sencilla para seleccionar diferentes idiomas y demuestra cómo cambiar la configuración regional de la aplicación.</string>
+    <string name="languageSettings">Configuración de idioma</string>
+    <string name="book_detail_title">Detalles del libro</string>
+</resources>

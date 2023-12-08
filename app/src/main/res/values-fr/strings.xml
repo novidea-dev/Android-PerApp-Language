@@ -1,0 +1,21 @@
+<resources>
+    <string name="dashboard">Tableau de bord</string>
+    <string name="language">Langue</string>
+    <string name="about_app">À propos de</string>
+
+    <string name="about_the_book">À propos du livre</string>
+    <string name="action_sort">Trier</string>
+
+    <string name="select_app_language">Sélectionner la langue de l application</string>
+    <string name="english">Anglais</string>
+    <string name="greek">Grec</string>
+    <string name="french">Français</string>
+    <string name="spanish">Espagnol</string>
+    <string name="telugu">Télougou</string>
+
+    <string name="about_app_title">Bienvenue dans \nla Démo Multilingue</string>
+    <string name="about_description_1">La Démo Multilingue est conçue pour guider les nouveaux développeurs dans la mise en œuvre du support multilingue dans leurs applications.</string>
+    <string name="about_description_2">Elle offre une interface simple pour sélectionner différentes langues et montre comment changer la locale de l application.</string>
+    <string name="languageSettings">Paramètres de langue</string>
+    <string name="book_detail_title">Détails du livre</string>
+</resources>

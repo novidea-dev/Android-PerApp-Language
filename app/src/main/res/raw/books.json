@@ -1,0 +1,183 @@
+[
+  {
+    "id": "1",
+    "name": "P.S. I love you",
+    "author": "Cecelia Ahern",
+    "rating": "4.0",
+    "price": "€12.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392344536l/366522.jpg",
+    "description": "Description: A heartwarming and poignant novel by Cecelia Ahern, \"P.S. I Love You\" tells the story of Holly, a young widow who receives a series of letters from her late husband, guiding her through the journey of healing and rediscovery. This emotionally charged tale explores love, loss, and the enduring power of memory."
+  },
+  {
+    "id": "2",
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "rating": "3.9",
+    "price": "€14.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SY475_.jpg",
+    "description": "Description: F. Scott Fitzgerald's classic \"The Great Gatsby\" delves into the glitzy and turbulent world of the Roaring Twenties. Through the eyes of Nick Carraway, readers witness the enigmatic Jay Gatsby's pursuit of wealth, love, and the American Dream, set against a backdrop of opulence and societal decadence."
+  },
+  {
+    "id": "3",
+    "name": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "rating": "4.1",
+    "price": "€9.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617l/15823480._SX318_.jpg",
+    "description" : "Description: Leo Tolstoy's masterful \"Anna Karenina\" weaves a complex narrative of love, betrayal, and societal expectations in 19th-century Russia. The titular character, Anna, grapples with the consequences of her passionate affair, while the novel explores themes of morality, family, and the human condition."
+  },
+  {
+    "id": "4",
+    "name": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "rating": "3.6",
+    "price": "€11.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335676143l/2175.jpg",
+    "description" : "Description: Gustave Flaubert's \"Madame Bovary\" is a groundbreaking work that explores the consequences of Emma Bovary's relentless pursuit of romantic ideals in provincial France. The novel is a vivid portrayal of the human desire for fulfillment and the dangers of unchecked passion."
+  },
+  {
+    "id": "5",
+    "name": "War and Peace",
+    "author": "Leo Tolstoy",
+    "rating": "4.2",
+    "price": "€11.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413215930l/656.jpg",
+    "description" : "Description: Leo Tolstoy's epic \"War and Peace\" spans the tumultuous years of Napoleonic wars and Russian society. Through a vast array of characters, the novel delves into themes of war, love, and the search for meaning in life. A timeless classic that captures the essence of the human experience."
+  },
+  {
+    "id": "6",
+    "name": "Lolita",
+    "author": "Vladimir Nabokov",
+    "rating": "3.8",
+    "price": "€13.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377756377l/7604.jpg",
+    "description" : "Description: Vladimir Nabokov's controversial masterpiece, \"Lolita,\" is a dark and intricate exploration of obsession and forbidden desire. The novel follows Humbert Humbert's disturbing infatuation with the titular character, Lolita, challenging readers with its provocative narrative."
+  },
+  {
+    "id": "7",
+    "name": "Middlemarch",
+    "author": "George Eliot",
+    "rating": "3.9",
+    "price": "€17.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481264628l/19089.jpg",
+    "description" : "Description: George Eliot's \"Middlemarch\" is a rich tapestry of interconnected lives in a provincial English town. The novel explores the complexities of love, ambition, and morality, offering a nuanced portrayal of characters navigating the social and personal challenges of the 19th century."
+  },
+  {
+    "id": "8",
+    "name": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "rating": "3.8",
+    "price": "€9.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546096879l/2956.jpg",
+    "description" : "Description: Mark Twain's classic adventure, \"The Adventures of Huckleberry Finn,\" follows the journey of Huck Finn and Jim, an escaped slave, as they navigate the Mississippi River. The novel addresses themes of racism, freedom, and the moral growth of its young protagonist."
+  },
+  {
+    "id": "9",
+    "name": "Moby-Dick",
+    "author": "Herman Melville",
+    "rating": "3.5",
+    "price": "€13.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940656l/153747.jpg",
+    "description" : "Description: Herman Melville's \"Moby-Dick\" is an epic tale of Captain Ahab's obsessive quest for the white whale, Moby Dick. This maritime adventure delves into themes of revenge, fate, and the awe-inspiring power of the sea."
+  },
+  {
+    "id": "10",
+    "name": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "rating": "4.5",
+    "price": "€17.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547450792l/33.jpg",
+    "description" : "Description: J.R.R. Tolkien's fantasy epic, \"The Lord of the Rings,\" follows the quest to destroy the One Ring and defeat the dark lord Sauron. Set in the richly imagined world of Middle-earth, this epic tale explores themes of friendship, heroism, and the struggle between good and evil."
+  },
+  {
+    "id": "11",
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "rating": "4.1",
+    "price": "€12.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657.jpg",
+    "description" : "Description: Harper Lee's \"To Kill a Mockingbird\" is a powerful exploration of racial injustice in the American South. Through the eyes of Scout Finch, the novel addresses themes of morality and compassion as her father, Atticus Finch, defends an innocent black man accused of rape."
+
+  },
+  {
+    "id": "12",
+    "name": "1984",
+    "author": "George Orwell",
+    "rating": "4.2",
+    "price": "€13.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532714506l/40961427.jpg",
+    "description" : "Description: George Orwell's dystopian classic, \"1984,\" paints a bleak picture of a totalitarian society where the government controls every aspect of its citizens' lives. Winston Smith, the protagonist, rebels against the oppressive regime in a chilling tale that remains a cautionary exploration of surveillance and censorship."
+  },
+  {
+    "id": "13",
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "rating": "3.8",
+    "price": "€12.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107.jpg",
+    "description" : "Description: J.D. Salinger's \"The Catcher in the Rye\" follows the rebellious and introspective Holden Caulfield as he navigates the challenges of adolescence in New York City. The novel is a timeless exploration of alienation, identity, and the loss of innocence."
+  },
+  {
+    "id": "14",
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "rating": "4.2",
+    "price": "€14.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379023182l/5907.jpg",
+    "description" : "Description: J.R.R. Tolkien's enchanting \"The Hobbit\" takes readers on a whimsical journey with Bilbo Baggins, a hobbit thrust into an epic quest to reclaim a dragon's treasure. Filled with magical creatures and adventure, it sets the stage for the events in \"The Lord of the Rings.\""
+  },
+  {
+    "id": "15",
+    "name": "Brave New World",
+    "author": "Aldous Huxley",
+    "rating": "3.9",
+    "price": "€13.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129.jpg",
+    "description" : "Description: Aldous Huxley's \"Brave New World\" envisions a future society where conformity and pleasure are paramount, challenging notions of individuality and freedom. This dystopian novel explores the consequences of technological advancements and societal control."
+  },
+  {
+    "id": "16",
+    "name": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "rating": "3.8",
+    "price": "€15.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303252999l/968.jpg",
+    "description" : "Description: Dan Brown's gripping thriller, \"The Da Vinci Code,\" follows symbologist Robert Langdon as he unravels cryptic codes and uncovers ancient secrets. The novel weaves together art, history, and religion in a fast-paced quest that keeps readers on the edge of their seats."
+  },
+  {
+    "id": "17",
+    "name": "The Shining",
+    "author": "Stephen King",
+    "rating": "4.2",
+    "price": "€14.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353277730l/11588.jpg",
+    "description" : "Description: Stephen King's \"The Shining\" is a chilling tale of the Torrance family's winter stay at the haunted Overlook Hotel. As the hotel's dark past emerges, the psychological horror intensifies, showcasing King's mastery of suspense and terror."
+  },
+  {
+    "id": "18",
+    "name": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "rating": "4.1",
+    "price": "€15.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328025229l/18405.jpg",
+    "description" : "Description: Margaret Mitchell's epic novel, \"Gone with the Wind,\" unfolds against the backdrop of the American Civil War and Reconstruction era. Through the resilient Scarlett O'Hara, the story explores love, loss, and the transformation of the Southern way of life."
+  },
+  {
+    "id": "19",
+    "name": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "rating": "4.1",
+    "price": "€12.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527075415l/386162.jpg",
+    "description" : "Description: Douglas Adams' comedic masterpiece, \"The Hitchhiker's Guide to the Galaxy,\" follows the intergalactic misadventures of Arthur Dent, an unwitting Earthling, and his alien friend Ford Prefect. Packed with absurdity and wit, the novel satirizes science fiction and the human condition."
+  },
+  {
+    "id": "20",
+    "name": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "rating": "4.0",
+    "price": "€14.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868566l/2429135.jpg",
+    "description" : "Description: Stieg Larsson's \"The Girl with the Dragon Tattoo\" introduces the enigmatic hacker Lisbeth Salander and investigative journalist Mikael Blomkvist. Together, they unravel a complex mystery involving corruption, family secrets, and a wealthy industrialist."
+  }
+]

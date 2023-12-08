@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/novideaBlue</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/novideaBlue</item>
+
+        <item name="android:statusBarColor">@color/novideaBlue</item>
+        <item name="windowActionBar">false</item>
+    </style>
+</resources>

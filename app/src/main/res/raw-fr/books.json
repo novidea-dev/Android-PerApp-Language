@@ -1,0 +1,203 @@
+[
+  {
+    "id": "1",
+    "book_id": "101",
+    "name": "P.S. Je t'aime",
+    "author": "Cecelia Ahern",
+    "rating": "4.0",
+    "price": "€12.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392344536l/366522.jpg",
+    "description": "Description: Un roman émouvant et poignant de Cecelia Ahern, \"P.S. I Love You\" raconte l'histoire de Holly, une jeune veuve qui reçoit une série de lettres de son défunt mari, la guidant à travers le parcours de la guérison et de la redécouverte. Ce récit chargé d'émotion explore l'amour, la perte et le pouvoir durable de la mémoire."
+  },
+  {
+    "id": "2",
+    "book_id": "102",
+    "name": "Gatsby le Magnifique",
+    "author": "F. Scott Fitzgerald",
+    "rating": "3.9",
+    "price": "€14.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SY475_.jpg",
+    "description": "Description: Le classique de F. Scott Fitzgerald, \"The Great Gatsby\", plonge dans le monde brillant et turbulent des Années folles. À travers les yeux de Nick Carraway, les lecteurs assistent à la poursuite énigmatique de la richesse, de l'amour et du rêve américain par Jay Gatsby, le tout sur fond d'opulence et de décadence sociale."
+  },
+  {
+    "id": "3",
+    "book_id": "103",
+    "name": "Anna Karénine",
+    "author": "Léon Tolstoï",
+    "rating": "4.1",
+    "price": "€9.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617l/15823480._SX318_.jpg",
+    "description": "Description : Le chef-d'œuvre de Léon Tolstoï, \"Anna Karenina\", tisse une narration complexe d'amour, de trahison et d'attentes sociales dans la Russie du XIXe siècle. Le personnage éponyme, Anna, lutte contre les conséquences de sa liaison passionnée, tandis que le roman explore des thèmes tels que la morale, la famille et la condition humaine."
+  },
+  {
+    "id": "4",
+    "book_id": "104",
+    "name": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "rating": "3.6",
+    "price": "€11.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335676143l/2175.jpg",
+    "description": "Description : L'œuvre novatrice de Gustave Flaubert, \"Madame Bovary\", explore les conséquences de la quête incessante d'Emma Bovary pour des idéaux romantiques dans la France provinciale. Le roman offre un portrait vivant du désir humain de réalisation et des dangers de la passion non maîtrisée."
+  },
+  {
+    "id": "5",
+    "book_id": "105",
+    "name": "Guerre et Paix",
+    "author": "Léon Tolstoï",
+    "rating": "4.2",
+    "price": "€11.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413215930l/656.jpg",
+    "description": "Description : L'épopée de Léon Tolstoï, \"War and Peace\", couvre les années tumultueuses des guerres napoléoniennes et de la société russe. À travers une multitude de personnages, le roman explore des thèmes tels que la guerre, l'amour et la quête de sens dans la vie. Un classique intemporel capturant l'essence de l'expérience humaine."
+  },
+  {
+    "id": "6",
+    "book_id": "106",
+    "name": "Lolita",
+    "author": "Vladimir Nabokov",
+    "rating": "3.8",
+    "price": "€13.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377756377l/7604.jpg",
+    "description": "Description : Le chef-d'œuvre controversé de Vladimir Nabokov, \"Lolita\", est une exploration sombre et complexe de l'obsession et du désir interdit. Le roman suit l'infatuation troublante de Humbert Humbert pour le personnage éponyme, Lolita, défiante avec son récit provocateur."
+  },
+  {
+    "id": "7",
+    "book_id": "107",
+    "name": "Middlemarch",
+    "author": "George Eliot",
+    "rating": "3.9",
+    "price": "€17.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481264628l/19089.jpg",
+    "description": "Description : \"Middlemarch\" de George Eliot est une riche toile de vies interconnectées dans une ville anglaise provinciale. Le roman explore les complexités de l'amour, de l'ambition et de la morale, offrant un portrait nuancé de personnages naviguant à travers les défis sociaux et personnels du XIXe siècle."
+  },
+  {
+    "id": "8",
+    "book_id": "108",
+    "name": "Les Aventures de Huckleberry Finn",
+    "author": "Mark Twain",
+    "rating": "3.8",
+    "price": "€9.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546096879l/2956.jpg",
+    "description": "Description : L'aventure classique de Mark Twain, \"The Adventures of Huckleberry Finn\", suit le voyage de Huck Finn et de Jim, un esclave en fuite, alors qu'ils naviguent sur le fleuve Mississippi. Le roman aborde des thèmes tels que le racisme, la liberté et la croissance morale de son jeune protagoniste."
+  },
+  {
+    "id": "9",
+    "book_id": "109",
+    "name": "Moby-Dick",
+    "author": "Herman Melville",
+    "rating": "3.5",
+    "price": "€13.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940656l/153747.jpg",
+    "description": "Description : \"Moby-Dick\" d'Herman Melville est un récit épique de la quête obsessionnelle du capitaine Achab pour la baleine blanche, Moby Dick. Cette aventure maritime explore des thèmes de vengeance, de destin et de la puissance impressionnante de la mer."
+  },
+  {
+    "id": "10",
+    "book_id": "110",
+    "name": "Le Seigneur des Anneaux",
+    "author": "J.R.R. Tolkien",
+    "rating": "4.5",
+    "price": "€17.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547450792l/33.jpg",
+    "description": "Description : L'épopée fantastique de J.R.R. Tolkien, \"The Lord of the Rings\", suit la quête pour détruire l'Anneau Unique et vaincre le seigneur des ténèbres Sauron. Situé dans le monde richement imaginé de la Terre du Milieu, ce récit épique explore des thèmes d'amitié, d'héroïsme et de lutte entre le bien et le mal."
+  },
+  {
+    "id": "11",
+    "book_id": "111",
+    "name": "Ne tuez pas un rossignol",
+    "author": "Harper Lee",
+    "rating": "4.1",
+    "price": "€12.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657.jpg",
+    "description": "Description : \"Ne tirez pas sur l'oiseau moqueur\" de Harper Lee est une puissante exploration de l'injustice raciale dans le Sud des États-Unis. À travers les yeux de Scout Finch, le roman aborde des thèmes de morale et de compassion alors que son père, Atticus Finch, défend un homme noir innocent accusé de viol."
+  },
+  {
+    "id": "12",
+    "book_id": "112",
+    "name": "1984",
+    "author": "George Orwell",
+    "rating": "4.2",
+    "price": "€13.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532714506l/40961427.jpg",
+    "description": "Description : Le classique dystopique de George Orwell, \"1984\", dresse un tableau sombre d'une société totalitaire où le gouvernement contrôle tous les aspects de la vie de ses citoyens. Winston Smith, le protagoniste, se rebelle contre le régime oppressif dans un récit glaçant qui demeure une exploration avertissante de la surveillance et de la censure."
+  },
+  {
+    "id": "13",
+    "book_id": "113",
+    "name": "L'Attrape-cœur",
+    "author": "J.D. Salinger",
+    "rating": "3.8",
+    "price": "€12.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107.jpg",
+    "description" : "Description : \"L'Attrape-cœurs\" de J.D. Salinger suit le rebelle introspectif Holden Caulfield alors qu'il navigue à travers les défis de l'adolescence à New York. Le roman est une exploration intemporelle de l'aliénation, de l'identité et de la perte de l'innocence."
+  },
+  {
+    "id": "14",
+    "book_id": "114",
+    "name": "Le Hobbit",
+    "author": "J.R.R. Tolkien",
+    "rating": "4.2",
+    "price": "€14.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379023182l/5907.jpg",
+    "description": "Description : L'enchanteur \"Le Hobbit\" de J.R.R. Tolkien emmène les lecteurs dans un voyage fantasque avec Bilbo Baggins, un hobbit entraîné dans une quête épique pour récupérer le trésor d'un dragon. Rempli de créatures magiques et d'aventures, il prépare le terrain pour les événements du \"Seigneur des Anneaux\"."
+  },
+  {
+    "id": "15",
+    "book_id": "115",
+    "name": "Le Meilleur des Mondes",
+    "author": "Aldous Huxley",
+    "rating": "3.9",
+    "price": "€13.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129.jpg",
+    "description": "Description : \"Le Meilleur des mondes\" d'Aldous Huxley imagine une société future où la conformité et le plaisir sont primordiaux, remettant en question les notions d'individualité et de liberté. Ce roman dystopique explore les conséquences des avancées technologiques et du contrôle social."
+  },
+  {
+    "id": "16",
+    "book_id": "116",
+    "name": "Le Da Vinci Code",
+    "author": "Dan Brown",
+    "rating": "3.8",
+    "price": "€15.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303252999l/968.jpg",
+    "description" : "Description : Le thriller captivant de Dan Brown, \"Da Vinci Code\", suit le symbologiste Robert Langdon alors qu'il déchiffre des codes cryptiques et découvre des secrets anciens. Le roman entrelace l'art, l'histoire et la religion dans une quête haletante qui tient les lecteurs en haleine."
+  },
+  {
+    "id": "17",
+    "book_id": "117",
+    "name": "Shining",
+    "author": "Stephen King",
+    "rating": "4.2",
+    "price": "€14.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353277730l/11588.jpg",
+    "description" : "Description : \"Shining\" de Stephen King est un récit glaçant du séjour hivernal de la famille Torrance à l'effrayant Overlook Hotel. À mesure que le sombre passé de l'hôtel émerge, l'horreur psychologique s'intensifie, démontrant la maîtrise de King du suspense et de la terreur."
+
+  },
+  {
+    "id": "18",
+    "book_id": "118",
+    "name": "Autant en emporte le vent",
+    "author": "Margaret Mitchell",
+    "rating": "4.1",
+    "price": "€15.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328025229l/18405.jpg",
+    "description" : "Description : L'épopée de Margaret Mitchell, \"Autant en emporte le vent\", se déroule pendant la guerre civile américaine et la période de la Reconstruction. À travers la résiliente Scarlett O'Hara, l'histoire explore l'amour, la perte et la transformation du mode de vie du Sud."
+  },
+  {
+    "id": "19",
+    "book_id": "119",
+    "name": "Le Guide du voyageur galactique",
+    "author": "Douglas Adams",
+    "rating": "4.1",
+    "price": "€12.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527075415l/386162.jpg",
+    "description" : "Description : Le chef-d'œuvre comique de Douglas Adams, \"H2G2\", suit les mésaventures intergalactiques d'Arthur Dent, un Terrien inconscient, et de son ami extraterrestre Ford Prefect. Rempli d'absurdités et d'esprit, le roman satirise la science-fiction et la condition humaine."
+  },
+  {
+    "id": "20",
+    "book_id": "120",
+    "name": "La Fille au Tatouage de Dragon",
+    "author": "Stieg Larsson",
+    "rating": "4.0",
+    "price": "€14.99",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868566l/2429135.jpg",
+    "description" : "Description : \"Millénium : Les Hommes qui n'aimaient pas les femmes\" de Stieg Larsson présente la hackeuse énigmatique Lisbeth Salander et le journaliste d'investigation Mikael Blomkvist. Ensemble, ils démêlent un mystère complexe impliquant la corruption, les secrets familiaux et un industriel fortuné."
+  }
+]

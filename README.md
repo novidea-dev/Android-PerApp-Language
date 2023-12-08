@@ -111,7 +111,7 @@ then we call fun saveLanguage to save the selected identifier to sharedPreferenc
 
 finishing, we call activity's recreate() fun to recreate the layout with the correct strings.
 
-<h1>In large applications it's recommented to load the locale once and save it to fast memory, avoiding the overhead of having to read the sharedPrefences
+<h1>In large applications it's recommented to load the locale once and save it to fast memory, avoiding the overhead of having to read the sharedPreferences
 each time we want to know the selected language</h1>
 
 #That's enough for string values, what about raw data?

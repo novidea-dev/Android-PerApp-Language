@@ -30,16 +30,15 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
-    android {
-            defaultConfig {
-                resourceConfigurations += listOf("en", "el", "fr", "es", "te")
-            }
-        }
+
+    defaultConfig {
+        resourceConfigurations += listOf("en", "el", "fr", "es", "te")
+    }
 }
 
 dependencies {
-    implementation ("com.squareup.picasso:picasso:2.71828")
-    implementation ("com.android.volley:volley:1.2.1")
+    implementation("com.squareup.picasso:picasso:2.71828")
+    implementation("com.android.volley:volley:1.2.1")
 
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.appcompat:appcompat:1.6.1")

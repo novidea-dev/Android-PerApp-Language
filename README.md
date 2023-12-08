@@ -4,16 +4,31 @@ A simple android app with a book library layout to help you understand how multi
 
 # First step
 Built.gradle (app level)
-Include under
-android {
-
+Include under android 
+```
        defaultConfig {
                 resourceConfigurations += listOf("en", "el", "fr", "es", "te")
             }
-            
-} 
+  ```          
 
-This is the list of languages we are going to use.
+Manifest file:
+under application:
+```
+        android:localeConfig="@xml/locales_config">
+```
+
+Under res/xml create a file called locales_config.xml and populate it with the ISO639-2 identifiers for you language
+```
+<locale-config xmlns:android="http://schemas.android.com/apk/res/android">
+    <locale android:name="en"/>
+    <locale android:name="el"/>
+    <locale android:name="fr"/>
+    <locale android:name="es"/>
+    <locale android:name="tu"/>
+</locale-config>
+```
+
+This is the list of languages we are going to use. It ensures automatic per-all language selection for our apps.
 
 Then under res/ the multiple locales are created for each language.
 In this example:
